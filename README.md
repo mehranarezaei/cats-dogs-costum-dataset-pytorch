@@ -1,7 +1,6 @@
-# CatDogClassifier
+# CatDogDataset
 
-A simple PyTorch-based image classification project to distinguish cats from dogs using the [Kaggle Dogs vs. Cats dataset](https://www.kaggle.com/c/dogs-vs-cats/data).
-
+A simple PyTorch-based custom dataset loader and a project to distinguish cats from dogs using the [Kaggle Dogs vs. Cats dataset](https://www.kaggle.com/c/dogs-vs-cats/data).
 
 ## Overview
 
